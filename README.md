@@ -1,11 +1,13 @@
 # Juego para Android desarrollado en Unity
-Proyecto final de DAM donde he desarrollado un juego narrativo que combina mecánicas de juego clásicas con un estilo visual retro
+Proyecto final de DAM donde he desarrollado un juego narrativo que combina mecánicas de juego clásicas con un estilo visual retro.
 El desarrollo se ha llevado a cabo en Unity utilizando C#, con la implementación de Firebase:
-  Firebase Authenticator para gestionar el control de cuentas y acceso de los jugadores
-  Firestore Database para almacenar tanto la información de las partidas como los textos de las distintas rutas del juego
-Para la creación de assets visuales y animaciones he usado LibreSprite
+  Firebase Authenticator para gestionar el control de cuentas y acceso de los jugadores.
+  
+  Firestore Database para almacenar tanto la información de las partidas como los textos de las distintas rutas del juego.
+  
+Para la creación de assets visuales y animaciones he usado LibreSprite.
 
-En el repositorio solo se encuentran los scripts del desarrollo
+En el repositorio solo se encuentran los scripts del desarrollo.
 
 # APK disponible en itch.io
 [itch.io link](https://mapacher.itch.io/where-did-i-go)
